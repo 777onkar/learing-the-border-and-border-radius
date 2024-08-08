@@ -9,8 +9,36 @@
 
 .shooes{
       color: #078080;
+      background-color: #a786df;
       border:solid;
       height: 300px;
       width: 220px;
       border-color: black;
+}
+
+.shirt{
+  color: violet;
+  background-color: #eaddcf;
+  border:dotted;
+  height: 300px;
+  width: 220px;
+  border-color: black;
+}
+
+.gold{
+  color: orangered;
+  background-color: green;
+  border:dashed;
+  height: 250px;
+  width: 290px;
+  border-color: black;
+}
+
+.car{
+  color: yellowgreen ;
+  background-color: pink;
+  border-style:double;
+  height: 300px;
+  width: 390px;
+  border-color: black;
 }
