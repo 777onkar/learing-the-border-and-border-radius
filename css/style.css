@@ -1,0 +1,16 @@
+.all{
+  background-color: #fef6e4;
+}
+
+.heading{
+  color: #a786df;
+  background: #078080;
+}
+
+.shooes{
+      color: #078080;
+      border:solid;
+      height: 300px;
+      width: 220px;
+      border-color: black;
+}
